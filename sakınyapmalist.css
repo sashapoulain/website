@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,500&display=swap');
+body{font-family: 'Raleway', sans-serif;}
+
+
+
+.sidebar{background-color: white;  height: 100%; color: black !important;}
+.sidebar-header{background-color: white; text-align: center; height: 100px; line-height: 100px; font-size: 35px;}
+.sidebar-header a{color: black; text-decoration: none;}
+.sidebar-profile{border-bottom: 1px solid bisque; height: 60px;}
+.sidebar-profile .float-left i{font-size: 25px; margin-top: 10px; margin-left: 50px; color: black;}
+.sidebar-profile .float-right i{float: right; font-size: 25px; margin-top: 10px; margin-right: 50px; color: black;}
+.sidebar h4{color: #e2bebe; text-align: center; margin-top: 10px; font-weight: bold;}
+
+.content{height: 100%;}
+.content .do .shop{color: #155472; }
+.content .card{position: absolute !important; background-color: lightpink !important;  border-radius: 1px solid #e2bebe; margin-left: 100px; margin-top: 55px; height: 200px; }
+.content .card .btn{box-shadow: none !important;}
+
+
+.wizard .content{background-color: #c3d2d4d7; width: auto; border-radius: 0; min-height: 400px; }
+.wizard > .content > .body input{border: 1px solid #e2bebe; border-radius: 5px; margin-bottom: 7px; box-shadow: none;}
+.wizard .spanel .col-7{margin-top: 40px;}
+.wizard .spanel .col{margin-top: 40px;}
+
+
