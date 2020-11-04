@@ -10,4 +10,5 @@ jqueryv321
 select2
 
 hepsi code içerisindeki dosyalarda mevcuttur.
+#arayüzfotoğrafları da dosyalar arasındadır.
 
